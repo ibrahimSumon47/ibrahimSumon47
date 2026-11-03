@@ -1,87 +1,196 @@
 <div align="center">
 
-# Md Ibrahim Hossain Sumon
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:22d3ee&height=200&section=header&text=Md%20Ibrahim%20Hossain%20Sumon&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Md Ibrahim Hossain Sumon" />
 
-**Full-Stack Web Developer · Affiliate Marketer** — from Bangladesh 🇧🇩
+<a href="https://github.com/ibrahimSumon47">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&width=680&lines=Full+Stack+Web+Developer;AI+Engineer;Next.js+%C2%B7+React+%C2%B7+TypeScript;Node.js+%C2%B7+Express+%C2%B7+Prisma+%C2%B7+MySQL;Python+%C2%B7+RAG+%C2%B7+LLM+Agents+%C2%B7+Computer+Vision;Building+real+products+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+</a>
 
-I design, build and ship complete web products: Next.js and React on the front, Node.js with Express and Prisma on the back, MySQL or MongoDB underneath, deployed and hardened on Linux.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ibrahimSumon47&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ibrahimSumon47?label=Followers&style=flat-square&color=22d3ee" alt="Followers" />
+  <img src="https://img.shields.io/badge/Based%20in-Gazipur%2C%20Bangladesh-7c3aed?style=flat-square" alt="Location" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ibrahimsumon005.com-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://ibrahimsumon005.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ibrahimSumon47-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ibrahimSumon47)
+<a href="https://ibrahimsumon005.com">
+  <img src="https://img.shields.io/badge/Portfolio-ibrahimsumon005.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/ibrahimSumon47?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
 
 </div>
 
 ---
 
-## What I do
+## 👋 About me
 
-I like problems that touch the whole product, not just one layer — the database schema, the API, the interface, the page speed and the funnel that turns a visit into a customer.
+I build complete web products — the database schema, the API, the interface, the
+admin panel and the deployment. Lately most of my work sits where **full-stack
+engineering meets applied AI**: retrieval-augmented chatbots, multi-agent
+assistants and computer-vision services wired into real interfaces.
 
-| | |
-| :-- | :-- |
-| **Full-stack engineering** | Next.js App Router + TypeScript front ends, REST APIs with Express, authentication, role-based admin panels and CMS-driven content. |
-| **Data & applied AI** | Python with pandas, scikit-learn and OpenCV — classifiers, computer-vision demos and LLM tooling. |
-| **Growth & SEO** | Technical SEO, Core Web Vitals, landing pages, CPA/affiliate funnels, analytics and A/B testing. |
-| **Delivery** | Git workflows, CI, Nginx and PM2, Webuzo and Vercel deployments, performance and security hardening. |
+```ts
+const sumon = {
+  role: ["Full Stack Web Developer", "AI Engineer"],
+  frontend: ["Next.js (App Router)", "React", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "REST APIs", "JWT auth", "Prisma ORM"],
+  data: ["MySQL", "MongoDB", "Redis", "Vector databases"],
+  ai: ["Python", "LangChain-style RAG", "LLM agents", "scikit-learn", "OpenCV"],
+  delivery: ["Linux", "Nginx", "PM2", "Webuzo", "Vercel", "Docker"],
+  currently: "Shipping an AI-readable, CMS-driven portfolio & client platforms",
+};
+```
 
-## Tech stack
+- 🔭 Building **full-stack platforms** with Next.js + Express + Prisma + MySQL, including role-based admin panels and CMS-driven content.
+- 🤖 Working on **applied AI**: RAG over vector databases, multi-agent tool use, and image-classification APIs.
+- 🌱 Sharpening **LLM app architecture**, testing and production hardening.
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Prisma, Python or LLMs**.
+- ⚡ I care about the whole product: schema, API, UI, page speed and the first paint.
 
-**Front end**
+---
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## 🛠️ Tech stack
 
-**Back end & data**
+<div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" alt="Frontend" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,mongodb,redis,py" alt="Backend and data" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,linux,nginx,docker,vercel,postman" alt="AI and tools" />
 
-**Tooling & delivery**
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+---
 
-## Selected work
+## 🚀 Featured projects
 
-**[Sawdagar-Dokanpat](https://github.com/ibrahimSumon47/sawdagar-dokanpart)** · TypeScript · [live demo](https://sawdagar-dokanpart.vercel.app)
-A Bangladeshi multi-vendor marketplace demonstration: vendor storefronts, catalogue search, cart and order flow, built as a portfolio-grade learning project.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[AI Crop Disease Detector for Bangladeshi Farmers](https://github.com/ibrahimSumon47/AI-Crop-Disease-Detector-for-Bangladeshi-Farmers)** · Python · [live demo](https://ai-crop-disease-detector-for-bangla.vercel.app)
-A vision model that identifies common crop diseases from a photo and returns treatment guidance in plain language for farmers.
+### 🌿 AI Crop Disease Detector
+A leaf photo in, a diagnosis and treatment advice in plain Bangla out — a
+computer-vision service built for Bangladeshi farmers.
 
-**[Portfolio & content platform](https://ibrahimsumon005.com)** · Next.js 16, Prisma, MySQL
-My own site and CMS: server-rendered public pages, an admin panel for every section, AI-readable output at `/llms.txt`, hardened headers and a custom Express server.
+`Python` · `TensorFlow` · `Next.js`
+<br/>
+<a href="https://github.com/ibrahimSumon47/AI-Crop-Disease-Detector-for-Bangladeshi-Farmers"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://ai-crop-disease-detector-for-bangla.vercel.app"><img src="https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
 
-**[Car Parts](https://github.com/ibrahimSumon47/car-parts)** · JavaScript · [live demo](https://car-parts-sigma.vercel.app)
-Component-driven storefront with filtering and a clean responsive layout.
+</td>
+<td width="50%" valign="top">
 
-<sub>Several client and commercial projects live in private repositories — happy to walk through them on request.</sub>
+### 🛒 Sawdagar Dokanpart
+A multi-vendor marketplace demonstration: storefronts, cart, orders and an
+admin side, end to end in TypeScript.
 
-## GitHub at a glance
+`Next.js` · `TypeScript` · `Prisma`
+<br/>
+<a href="https://github.com/ibrahimSumon47/sawdagar-dokanpart"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://sawdagar-dokanpart.vercel.app"><img src="https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ibrahimSumon47&show_icons=true&hide_title=true&hide_border=true&border_radius=8" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimSumon47&layout=compact&hide_title=true&hide_border=true&border_radius=8" alt="Most used languages" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Let's build something
+### 🧠 Knowledge-Base Chatbot
+Retrieval-augmented chatbot that answers from your own documents instead of
+guessing — embeddings, a vector store and grounded citations.
 
-I am open to freelance and full-time work on web applications, dashboards, e-commerce and SEO-driven sites.
+`Python` · `RAG` · `Vector DB`
+<br/>
+<a href="https://github.com/ibrahimSumon47/Knowledge-Base-Chatbot-with-Vector-DB"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
 
-- Website: **[ibrahimsumon005.com](https://ibrahimsumon005.com)**
-- GitHub: **[github.com/ibrahimSumon47](https://github.com/ibrahimSumon47)**
+</td>
+<td width="50%" valign="top">
 
-<sub>Thanks for stopping by — the fastest way to reach me is the contact form on my site.</sub>
+### 🤝 Multi-Tool AI Agent
+An agent that plans and calls Bangladesh-focused tools — search, translation
+and local data lookups — before it answers.
+
+`Python` · `LLM agents` · `Tool calling`
+<br/>
+<a href="https://github.com/ibrahimSumon47/Multi-Tool-AI-Agent-for-Bangladesh"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Leo Multi-Agent AI Tutor
+A tutor made of cooperating agents: one plans the lesson, one answers, one
+quizzes the learner and checks the answers.
+
+`Jupyter` · `Python` · `Multi-agent`
+<br/>
+<a href="https://github.com/ibrahimSumon47/Leo-Multi-Agent-AI-Tutor"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💵 Taka Detection API
+Bangladeshi banknote recognition served as an HTTP image-classification API,
+ready to plug into a mobile or web client.
+
+`Python` · `OpenCV` · `FastAPI`
+<br/>
+<a href="https://github.com/ibrahimSumon47/taka-detection-api"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimSumon47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=ibrahimSumon47&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimSumon47&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ibrahimSumon47&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimSumon47&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" width="100%" alt="Activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating my contributions" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something
+
+<a href="https://ibrahimsumon005.com"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/ibrahimSumon47"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>Thanks for stopping by — always open to full-stack and applied-AI work.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:7c3aed&height=120&section=footer" width="100%" alt="footer" />
+
+</div>

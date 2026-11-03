@@ -36,18 +36,14 @@ admin panel and the deployment. Lately most of my work sits where **full-stack
 engineering meets applied AI**: retrieval-augmented chatbots, multi-agent
 assistants and computer-vision services wired into real interfaces.
 
-```ts
-const sumon = {
-  role: ["Full Stack Web Developer", "AI Engineer"],
-  frontend: ["Next.js (App Router)", "React", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "REST APIs", "JWT auth", "Prisma ORM"],
-  data: ["MySQL", "MongoDB", "Redis", "Supabase", "Vector databases"],
-  ai: ["Python", "LangChain-style RAG", "LLM agents", "scikit-learn", "OpenCV"],
-  delivery: ["Linux", "Nginx", "PM2", "Webuzo", "Vercel", "Docker"],
-  education: "B.Sc in CSE, Green University of Bangladesh",
-  currently: "Shipping AI-native products and CMS-driven client platforms",
-};
-```
+- **Role:** Full Stack Web Developer · AI Engineer
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs, JWT auth, Prisma ORM
+- **Data:** MySQL, MongoDB, Redis, Supabase, Vector databases
+- **AI:** Python, LangChain-style RAG, LLM agents, scikit-learn, OpenCV
+- **Delivery:** Linux, Nginx, PM2, Webuzo, Vercel, Docker
+- **Education:** B.Sc in CSE, Green University of Bangladesh
+- **Currently:** Shipping AI-native products and CMS-driven client platforms
 
 - 🔭 Building **full-stack platforms** with Next.js + Express + Prisma + MySQL, including role-based admin panels and CMS-driven content.
 - 🤖 Working on **applied AI**: RAG over vector databases, multi-agent tool use, and image-classification APIs.
@@ -75,15 +71,36 @@ const sumon = {
 
 ---
 
-## 💼 Experience & education
+## 📊 GitHub stats
 
-| | Role / Programme | Organisation | Period |
-|:--|:--|:--|:--|
-| 💻 | Frontend Web Developer | KREE SHOP | May 2026 – Jun 2026 |
-| 🖥️ | IT | M/S Kazi and Co. | Dec 2021 – Sep 2022 |
-| 🎓 | B.Sc in Computer Science & Engineering | Green University of Bangladesh | 2022 – 2026 |
-| 📘 | Diploma in CSE | Uttara Polytechnic Institute | 2016 – 2021 |
-| 🎖️ | Programming Hero Level 1 Certificate | Programming Hero | Oct 2023 |
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=ibrahimSumon47&theme=tokyonight&hide_border=true" alt="Commit streak" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimSumon47&theme=github_dark" alt="Profile summary" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahimSumon47&theme=github_dark" alt="Repositories per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimSumon47&theme=github_dark" alt="Most commit language" />
+
+<img width="100%" src="https://ghchart.rshah.org/7c3aed/ibrahimSumon47" alt="Contribution chart for the last year" />
+
+</div>
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating my contributions" />
+</picture>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+</div>
 
 ---
 
@@ -173,36 +190,31 @@ ready to plug into a mobile or web client.
 
 ---
 
-## 📊 GitHub stats
+## 💼 Experience
 
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=ibrahimSumon47&theme=tokyonight&hide_border=true" alt="Commit streak" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimSumon47&theme=github_dark" alt="Profile summary" />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahimSumon47&theme=github_dark" alt="Repositories per language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimSumon47&theme=github_dark" alt="Most commit language" />
-
-<img width="100%" src="https://ghchart.rshah.org/7c3aed/ibrahimSumon47" alt="Contribution chart for the last year" />
-
-</div>
+| | Role | Organisation | Period |
+|:--|:--|:--|:--|
+| 💻 | Frontend Web Developer | KREE SHOP | May 2026 – Jun 2026 |
+| 🖥️ | IT | M/S Kazi and Co. | Dec 2021 – Sep 2022 |
 
 ---
 
-## 🐍 Contribution snake
+## 🎓 Education
 
-<div align="center">
+| | Degree / Programme | Institution | Period |
+|:--|:--|:--|:--|
+| 🎓 | B.Sc in Computer Science & Engineering | Green University of Bangladesh | 2022 – 2026 |
+| 📘 | Diploma in CSE | Uttara Polytechnic Institute | 2016 – 2021 |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating my contributions" />
-</picture>
+---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+## 📚 Courses
 
-</div>
+| | Programme | Provider | Details |
+|:--|:--|:--|:--|
+| 🎖️ | Programming Hero Level 1 — Web Development | Programming Hero | Certificate · Oct 2023 |
+| 🤖 | AI & ML Engineering Bootcamp | Ostad | [ostad.app/course/ai-engineering](https://ostad.app/course/ai-engineering) |
+| 🚀 | Programming Hero Level 2 — Next Level Software Development with AI Engineering | Programming Hero | [next.programming-hero.com](https://next.programming-hero.com/) |
 
 ---
 

@@ -213,8 +213,8 @@ ready to plug into a mobile or web client.
 | | Programme | Provider | Details |
 |:--|:--|:--|:--|
 | 🎖️ | Programming Hero Level 1 — Web Development | Programming Hero | Certificate · Oct 2023 |
-| 🤖 | AI & ML Engineering Bootcamp | Ostad | [ostad.app/course/ai-engineering](https://ostad.app/course/ai-engineering) |
-| 🚀 | Programming Hero Level 2 — Next Level Software Development with AI Engineering | Programming Hero | [next.programming-hero.com](https://next.programming-hero.com/) |
+| 🤖 | AI & ML Engineering Bootcamp | Ostad | Nov 2026 |
+| 🚀 | Programming Hero Level 2 — Next Level Software Development with AI Engineering | Programming Hero | Ongoing |
 
 ---
 

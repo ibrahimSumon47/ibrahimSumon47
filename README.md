@@ -18,6 +18,9 @@
 <a href="mailto:ibrahimsumon005@gmail.com">
   <img src="https://img.shields.io/badge/Email-ibrahimsumon005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://www.linkedin.com/in/md-ibrahim-hossain-sumon-781967157/">
+  <img src="https://img.shields.io/badge/LinkedIn-Md%20Ibrahim%20Hossain%20Sumon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://github.com/ibrahimSumon47?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
@@ -208,6 +211,7 @@ ready to plug into a mobile or web client.
 <div align="center">
 
 <a href="mailto:ibrahimsumon005@gmail.com"><img src="https://img.shields.io/badge/Gmail-ibrahimsumon005-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/md-ibrahim-hossain-sumon-781967157/"><img src="https://img.shields.io/badge/LinkedIn-md--ibrahim--hossain--sumon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://ibrahimsumon005.com"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://ibrahimsumon005.com/portfolio/blog"><img src="https://img.shields.io/badge/Blog-Read%20my%20notes-22d3ee?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 

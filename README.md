@@ -194,8 +194,8 @@ ready to plug into a mobile or web client.
 
 | | Role | Organisation | Period |
 |:--|:--|:--|:--|
-| 💻 | Frontend Web Developer | KREE SHOP | May 2026 – Jun 2026 |
-| 🖥️ | IT | M/S Kazi and Co. | Dec 2021 – Sep 2022 |
+| 💻 | Frontend Web Developer | KREE SHOP (Internship) | May 2026 – Jun 2026 |
+| 🖥️ | IT | M/S Kazi and Co. (Full-time) | Dec 2021 – Sep 2022 |
 
 ---
 

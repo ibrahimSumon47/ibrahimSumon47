@@ -147,22 +147,12 @@ ready to plug into a mobile or web client.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimSumon47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=ibrahimSumon47&theme=tokyonight&hide_border=true" alt="Streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=ibrahimSumon47&theme=tokyonight&hide_border=true" alt="Commit streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimSumon47&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimSumon47&theme=github_dark" alt="Profile summary" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ibrahimSumon47&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimSumon47&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" width="100%" alt="Activity graph" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahimSumon47&theme=github_dark" alt="Repositories per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimSumon47&theme=github_dark" alt="Most commit language" />
 
 </div>
 

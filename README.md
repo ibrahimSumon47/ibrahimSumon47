@@ -10,10 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=ibrahimSumon47&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ibrahimSumon47?label=Followers&style=flat-square&color=22d3ee" alt="Followers" />
   <img src="https://img.shields.io/badge/Based%20in-Gazipur%2C%20Bangladesh-7c3aed?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Full--stack%20%26%20AI%20roles-22d3ee?style=flat-square" alt="Open to work" />
 </p>
 
 <a href="https://ibrahimsumon005.com">
   <img src="https://img.shields.io/badge/Portfolio-ibrahimsumon005.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:ibrahimsumon005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ibrahimsumon005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/ibrahimSumon47?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
@@ -35,16 +39,17 @@ const sumon = {
   role: ["Full Stack Web Developer", "AI Engineer"],
   frontend: ["Next.js (App Router)", "React", "TypeScript", "Tailwind CSS"],
   backend: ["Node.js", "Express", "REST APIs", "JWT auth", "Prisma ORM"],
-  data: ["MySQL", "MongoDB", "Redis", "Vector databases"],
+  data: ["MySQL", "MongoDB", "Redis", "Supabase", "Vector databases"],
   ai: ["Python", "LangChain-style RAG", "LLM agents", "scikit-learn", "OpenCV"],
   delivery: ["Linux", "Nginx", "PM2", "Webuzo", "Vercel", "Docker"],
-  currently: "Shipping an AI-readable, CMS-driven portfolio & client platforms",
+  education: "B.Sc in CSE, Green University of Bangladesh",
+  currently: "Shipping AI-native products and CMS-driven client platforms",
 };
 ```
 
 - 🔭 Building **full-stack platforms** with Next.js + Express + Prisma + MySQL, including role-based admin panels and CMS-driven content.
 - 🤖 Working on **applied AI**: RAG over vector databases, multi-agent tool use, and image-classification APIs.
-- 🌱 Sharpening **LLM app architecture**, testing and production hardening.
+- 🌱 Sharpening **LLM app architecture**, evaluation and production hardening.
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, Prisma, Python or LLMs**.
 - ⚡ I care about the whole product: schema, API, UI, page speed and the first paint.
 
@@ -55,10 +60,28 @@ const sumon = {
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" alt="Frontend" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,mongodb,redis,py" alt="Backend and data" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,linux,nginx,docker,vercel,postman" alt="AI and tools" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,mongodb,redis,py,fastapi" alt="Backend and data" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,firebase,supabase,git,github,linux,nginx,docker,vercel,postman" alt="AI, cloud and tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLM%20%26%20RAG-LangChain%20%C2%B7%20OpenAI%20%C2%B7%20Google%20AI%20Studio-7c3aed?style=flat-square" alt="LLM stack" />
+<img src="https://img.shields.io/badge/CMS-Headless%20%26%20WordPress-22d3ee?style=flat-square" alt="CMS" />
+<img src="https://img.shields.io/badge/Payments%20%26%20Couriers-Pathao%20%C2%B7%20Steadfast%20%C2%B7%20RedX-6366f1?style=flat-square" alt="Integrations" />
 
 </div>
+
+---
+
+## 💼 Experience & education
+
+| | Role / Programme | Organisation | Period |
+|:--|:--|:--|:--|
+| 💻 | Frontend Web Developer | KREE SHOP | May 2026 – Jun 2026 |
+| 🖥️ | IT | M/S Kazi and Co. | Dec 2021 – Sep 2022 |
+| 🎓 | B.Sc in Computer Science & Engineering | Green University of Bangladesh | 2022 – 2026 |
+| 📘 | Diploma in CSE | Uttara Polytechnic Institute | 2016 – 2021 |
+| 🎖️ | Programming Hero Level 1 Certificate | Programming Hero | Oct 2023 |
 
 ---
 
@@ -141,6 +164,11 @@ ready to plug into a mobile or web client.
 </tr>
 </table>
 
+**More case studies on my portfolio:**
+[Case Lab BD](https://ibrahimsumon005.com/portfolio/projects/case-lab-bd) ·
+[Sawdagar Dokanpart](https://ibrahimsumon005.com/portfolio/projects/https-sawdagar-dokanpart-vercel-app) ·
+[Resort Template](https://ibrahimsumon005.com/portfolio/projects/https-resort-tamplate-vercel-app)
+
 ---
 
 ## 📊 GitHub stats
@@ -153,6 +181,8 @@ ready to plug into a mobile or web client.
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahimSumon47&theme=github_dark" alt="Repositories per language" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimSumon47&theme=github_dark" alt="Most commit language" />
+
+<img width="100%" src="https://ghchart.rshah.org/7c3aed/ibrahimSumon47" alt="Contribution chart for the last year" />
 
 </div>
 
@@ -167,6 +197,27 @@ ready to plug into a mobile or web client.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/ibrahimSumon47/ibrahimSumon47/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating my contributions" />
 </picture>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+</div>
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+<a href="mailto:ibrahimsumon005@gmail.com"><img src="https://img.shields.io/badge/Gmail-ibrahimsumon005-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://ibrahimsumon005.com"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://ibrahimsumon005.com/portfolio/blog"><img src="https://img.shields.io/badge/Blog-Read%20my%20notes-22d3ee?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+
+<a href="https://www.facebook.com/MasterNoob005/"><img src="https://img.shields.io/badge/Facebook-MasterNoob005-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/noobmaster005/"><img src="https://img.shields.io/badge/Instagram-noobmaster005-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://t.me/NoobMaster_005"><img src="https://img.shields.io/badge/Telegram-%40NoobMaster__005-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://wa.me/8801710642862"><img src="https://img.shields.io/badge/WhatsApp-%2B880%201710%20642862-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+
+<sub>Discord: <code>noobmaster005</code></sub>
 
 </div>
 

@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=ibrahimSumon47&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ibrahimSumon47?label=Followers&style=flat-square&color=22d3ee" alt="Followers" />
   <img src="https://img.shields.io/badge/Based%20in-Gazipur%2C%20Bangladesh-7c3aed?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-Full--stack%20%26%20AI%20roles-22d3ee?style=flat-square" alt="Open to work" />
 </p>
 
 <a href="https://ibrahimsumon005.com">
